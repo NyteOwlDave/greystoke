@@ -8,4 +8,9 @@
 
 * [Private Notebook][notes]
 * [IP Address][ip]
+* [Primary URL][cloudflare]
+* [Alternate URL][bluehost]
+
+---
+
 
